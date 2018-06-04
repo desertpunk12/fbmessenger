@@ -1,0 +1,34 @@
+{
+  "object": "page",
+  "entry": [
+    {
+      "id": "2055066868074353",
+      "time": 1525386438118,
+      "messaging": [
+        {
+          "sender": {
+            "id": "2369363709744184"
+          },
+          "recipient": {
+            "id": "2055066868074353"
+          },
+          "timestamp": 1525386437794,
+          "message": {
+            "mid": "mid.$cAAcX4akaeqRpWWMsoljKB3aq0_wq",
+            "seq": 457822,
+            "sticker_id": 369239263222822,
+            "attachments": [
+              {
+                "type": "image",
+                "payload": {
+                  "url": "https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t39.1997-6\/851557_369239266556155_759568595_n.png?_nc_cat=0&_nc_ad=z-m&_nc_cid=0&oh=077377daae3942a4ec47da063d057ae0&oe=5B8AF8DC",
+                  "sticker_id": 369239263222822
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
